@@ -349,6 +349,76 @@
       "longitude": -122.4669,
       "phone": "(415) 555-0125",
       "description": "South Indian specialties and dosas"
+    },
+    {
+      "id": "26",
+      "name": "Aga's Restaurant",
+      "address": "6815 Hillcroft St, Houston, TX 77081",
+      "cuisine": "Indian",
+      "rating": 4.3,
+      "priceRange": "$$",
+      "openingHours": "11:30",
+      "closingHours": "22:00",
+      "latitude": 29.7064,
+      "longitude": -95.4963,
+      "phone": "(713) 981-7717",
+      "description": "Authentic Andhra cuisine with biryani and curries"
+    },
+    {
+      "id": "27",
+      "name": "Pondicheri",
+      "address": "2800 Kirby Dr, Houston, TX 77098",
+      "cuisine": "Indian",
+      "rating": 4.4,
+      "priceRange": "$$",
+      "openingHours": "11:00",
+      "closingHours": "21:00",
+      "latitude": 29.7370,
+      "longitude": -95.4189,
+      "phone": "(713) 522-2022",
+      "description": "Modern South Indian farm-to-table cuisine"
+    },
+    {
+      "id": "28",
+      "name": "Himalaya Restaurant",
+      "address": "3601 Hillcroft St, Houston, TX 77057",
+      "cuisine": "Indian",
+      "rating": 4.1,
+      "priceRange": "$$",
+      "openingHours": "11:00",
+      "closingHours": "23:00",
+      "latitude": 29.7304,
+      "longitude": -95.4950,
+      "phone": "(713) 532-2837",
+      "description": "Halal Pakistani and South Indian cuisine"
+    },
+    {
+      "id": "29",
+      "name": "Indika Modern Indian",
+      "address": "516 Westheimer Rd, Houston, TX 77006",
+      "cuisine": "Indian",
+      "rating": 4.5,
+      "priceRange": "$$$",
+      "openingHours": "17:30",
+      "closingHours": "22:00",
+      "latitude": 29.7431,
+      "longitude": -95.3946,
+      "phone": "(713) 524-2170",
+      "description": "Upscale modern Indian with tandoori lamb"
+    },
+    {
+      "id": "30",
+      "name": "Madras Pavilion",
+      "address": "3910 Kirby Dr, Houston, TX 77098",
+      "cuisine": "Indian",
+      "rating": 4.2,
+      "priceRange": "$",
+      "openingHours": "11:30",
+      "closingHours": "22:00",
+      "latitude": 29.7352,
+      "longitude": -95.4192,
+      "phone": "(713) 521-2617",
+      "description": "Pure vegetarian South Indian cuisine"
     }
   ]
 }

@@ -64,10 +64,12 @@ export default function RestaurantCard({ restaurant }: RestaurantCardProps) {
           📍 {restaurant.address}
         </p>
 
-        {/* TODO: Workshop Exercise 1 - Add opening hours display */}
-        {/* The data includes openingHours and closingHours fields */}
-        {/* Display them here with appropriate formatting */}
-        {/* Consider showing "Open Now" or "Closed" status */}
+        {/* Opening/Closing Hours Display */}
+        {restaurant.openingHours && restaurant.closingHours && (
+          <p className="text-sm text-gray-600 mb-2">
+            🕒 {restaurant.openingHours} - {restaurant.closingHours}
+          </p>
+        )}
 
         <p className="text-sm text-gray-500 line-clamp-2">{restaurant.description}</p>
 
